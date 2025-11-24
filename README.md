@@ -2,10 +2,10 @@
 
 ### About me 
 
-Physicist by training, data analyst by profession, and problem-solver at heart. I love science, math and data - especially when they come together to help us understand complex systems. Whether it's modeling physical phenomena, analyzing data, or developing models, I'm always eager to dive deep and find meaningful insights.
+Physicist by training, data analyst by profession, and problem-solver at heart. I love science, math and data, especially when they come together to help us understand complex systems. Whether it's modeling physical phenomena, analyzing data, or developing models, I'm always eager to dive deep and find meaningful insights.
 
 ### Currently
-- Automating data ingestion and validation to improve efficiency and robustness in key processes at **CREALP** (Centre de Recherche sur l'Envionnement Alpin)
+- R&D SWE/Data scientist at Skysoft-ATM.
 - Pursing my learning in data structures and algorithms, and in machine learning/deep learning.
 
 ### Education
@@ -16,7 +16,7 @@ Physicist by training, data analyst by profession, and problem-solver at heart. 
 
 ### Past Experience
 - Interned at **Sensirion Connected Solutions**, working on models and algorithms to detect and localize methane leaks on oil & gas production sites from the data of a network of sensors.
-- Interned at **CREALP**, analyzing groundwater and environmental data, and developping and automating the computation of statistical indicators.
+- Worked at **CREALP**, analyzing groundwater and environmental data, developping and automating the computation of statistical indicators, automating data ingestion and validation to improve efficiency and robustness in key processes.
 
 ---
 
