@@ -37,10 +37,3 @@ Physicist by training, data analyst by profession, and problem-solver at heart. 
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
 
-## Profile summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EliotJean&theme=transparent" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EliotJean&theme=transparent" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EliotJean&theme=transparent" />
-</p>
