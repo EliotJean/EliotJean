@@ -10,9 +10,9 @@ Physicist by training, data analyst by profession, and problem-solver at heart. 
 
 ### Education
 
-- Studied **Economics** (BSc) at **HEC Lausanne**, which involved Excel, SQL, JavaScript and Python
-- Studied **Physics** (BSc) at **EPFL**, which involved C++ and Matlab, through courses in programming, computational physics and the analysis of lab data.
-- Studied **Theoretical Physics** (MSc) at **ETH Zürich**. I mainly focused on quantum theory (QFT, quantum causality) and general relativity/cosmology.
+- **Economics** (BSc) at **HEC Lausanne**, which involved Excel, SQL, JavaScript and Python
+- **Physics** (BSc) at **EPFL**, which involved C++ and Matlab, through courses in programming, computational physics and the analysis of lab data.
+- **Theoretical Physics** (MSc) at **ETH Zürich**. I mainly focused on quantum theory (QFT, quantum causality) and general relativity/cosmology.
 
 ### Past Experience
 - Interned at **Sensirion Connected Solutions**, working on models and algorithms to detect and localize methane leaks on oil & gas production sites from the data of a network of sensors.
@@ -37,17 +37,10 @@ Physicist by training, data analyst by profession, and problem-solver at heart. 
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
 
-<!--
-**EliotJean/EliotJean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Profile summary
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=transparent" />
+</p>
