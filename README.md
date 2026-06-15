@@ -40,7 +40,7 @@ Physicist by training, data analyst by profession, and problem-solver at heart. 
 ## Profile summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=transparent" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=transparent" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EliotJean&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EliotJean&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EliotJean&theme=transparent" />
 </p>
