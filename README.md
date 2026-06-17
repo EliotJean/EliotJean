@@ -5,7 +5,7 @@
 Physicist by training, data analyst by profession, and problem-solver at heart. I love science, math and data, especially when they come together to help us understand complex systems. Whether it's modeling physical phenomena, analyzing data, or developing models, I'm always eager to dive deep and find meaningful insights.
 
 ### Currently
-- R&D SWE/Data scientist at Skysoft-ATM.
+- R&D SWE/Data scientist at Skysoft-ATM (trajectory prediction, statistical data analysis, wind forecasting)
 - Pursing my learning in data structures and algorithms, and in machine learning/deep learning.
 
 ### Education
@@ -28,6 +28,7 @@ Physicist by training, data analyst by profession, and problem-solver at heart. 
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="plotly" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" alt="scikitlearn" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
